@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "924ce15cb4b6ef98",
+        "id": "ec7b9aafc11beb23",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Todo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +78,32 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "fd49ddb556bca48b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cd5cec8e2ab54c3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "924ce15cb4b6ef98",
-  "lastOpenFiles": []
+  "active": "ec7b9aafc11beb23",
+  "lastOpenFiles": [
+    "Todo.md"
+  ]
 }
