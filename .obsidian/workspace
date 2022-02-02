@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "English/The Tatooist of Aushwitz.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -61,7 +62,7 @@
       {
         "id": "2982737ac3cc1b17",
         "type": "tabs",
-        "dimension": 48.36829836829837,
+        "dimension": 48.36829836829836,
         "children": [
           {
             "id": "70eb31c607c0cae6",
@@ -94,7 +95,7 @@
       {
         "id": "5d504dbecd8ca9dd",
         "type": "tabs",
-        "dimension": 51.63170163170163,
+        "dimension": 51.63170163170164,
         "children": [
           {
             "id": "2cd5cec8e2ab54c3",
