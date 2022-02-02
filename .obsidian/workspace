@@ -1,14 +1,18 @@
 {
   "main": {
-    "id": "7bd4f54e0669bcfa",
+    "id": "b44090624584c42d",
     "type": "split",
     "children": [
       {
-        "id": "924ce15cb4b6ef98",
+        "id": "2a5e5c92848dc151",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/The Tatooist of Aushwitz.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/The Tatooist of Aushwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +79,38 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "52708189493a8039",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cf582ea73a13cf81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1790934ebedd9f0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "924ce15cb4b6ef98",
-  "lastOpenFiles": []
+  "active": "2a5e5c92848dc151",
+  "lastOpenFiles": [
+    "English/The Tatooist of Aushwitz.md"
+  ]
 }
