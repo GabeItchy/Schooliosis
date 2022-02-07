@@ -36,3 +36,16 @@
 // 1940 Glen Seaborg
 - Used neutrons with Uranium to make heavier atoms such as plutonium. Elements can now be created because of him.
 
+There are 118 different elements on the Periodic Table in increasing atomic number
+Elements are pure substances that are made up of only one type of atom. They're the bulding blocks from which all other substances are made.
+
+## 4.1 Develop your abilities 
+
+1. Evaluate the effectiveness of two alternative versions of the periodic tables.
+	- In Figure 9, we can tell that there is a huge abundancy of hydrogen because it is bigger than other elements and is color coded green indicating that there is plenty of it.
+	- In Figure 10, the elements are arranged in a spiral pattern going from the lowest atomic number and spiralling outwards. They are also divided in colors. What we can tell by hydrogen is that it is 1 in the atomic number and is different from the others.
+	- You can find out the atomic number, the neutrons, mass and abbreviation of the element of hydrogen.
+	- You are able to identify and find elements easier on the modern one, while the others require you to have prior knowledge.
+	- The modern one.
+
+
