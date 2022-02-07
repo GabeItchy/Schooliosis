@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Humanities/Untitled.md",
+            "file": "Humanities/7022022 WW1 Notes.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,6 @@
       {
         "id": "2982737ac3cc1b17",
         "type": "tabs",
-        "dimension": 48.36829836829836,
         "children": [
           {
             "id": "70eb31c607c0cae6",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/Untitled.md",
+                "file": "Humanities/7022022 WW1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +92,14 @@
         "currentTab": 1
       },
       {
-        "id": "5d504dbecd8ca9dd",
+        "id": "ef8cb304cb1fc897",
         "type": "tabs",
-        "dimension": 51.63170163170164,
         "children": [
           {
-            "id": "2cd5cec8e2ab54c3",
+            "id": "81f8425989b0204e",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -113,7 +111,8 @@
   },
   "active": "ec7b9aafc11beb23",
   "lastOpenFiles": [
-    "Humanities/Untitled.md",
+    "Humanities/7022022 WW1 Notes.md",
+    "le great todo.md",
     "English/The Tatooist of Aushwitz.md",
     "Science/4022022.md",
     "Todo.md"
