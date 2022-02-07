@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "le great todo.md": [
-      {
-        "title": "do the second chapter of math",
-        "time": "2022-02-09 19:00",
-        "rowNumber": 3
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
