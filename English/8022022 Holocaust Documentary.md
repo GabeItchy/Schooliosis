@@ -22,6 +22,7 @@
 
 
 7. What did these prisoners do to survive?
-8. What did those people value by the end of the documentary
+	- The Jews have to submit to the Nazis who would yell, order and beat them. Failing to follow orders would result in injuries being inflcted onto them.
+1. What did those people value by the end of the documentary
 	a. Contrast this with what they valued before their capture
 9. How do these pisoners view their captors? Did they hate them? Why/Why not?
