@@ -88,6 +88,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "db9f20f1a992d22a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
