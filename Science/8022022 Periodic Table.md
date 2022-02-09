@@ -1,6 +1,8 @@
 ## Periodic Table
 
 - Because of the continuos discoveries of the new elements, the periodic table is constantly been refined multiple times over the years.
+- **Atomic Number is the number of protons/electrons
+- **Atomic Mass is Protons + neutrons
 
 
 // Ancient Greeks 100 AD 

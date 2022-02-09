@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/9022022 Group 1A and 2A.md",
+            "file": "10022022 Bohr Model and Valence.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/9022022 Group 1A and 2A.md",
+                "file": "10022022 Bohr Model and Valence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf1c15e9f1353a9b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -111,9 +119,10 @@
   },
   "active": "ec7b9aafc11beb23",
   "lastOpenFiles": [
+    "10022022 Bohr Model and Valence.md",
+    "Science/8022022 Periodic Table.md",
     "Science/9022022 Group 1A and 2A.md",
     "le great todo.md",
-    "Science/8022022 Periodic Table.md",
     "Humanities/7022022 WW1 Notes.md",
     "English/8022022 Holocaust Documentary.md",
     "English/Five Fun Facts About The Holocaust.md",
