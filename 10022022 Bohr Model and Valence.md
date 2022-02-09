@@ -40,3 +40,6 @@ Elements in the same group have the same number of electrons in the valence shel
 The Electrons in the valence shells determine chemical bonds
 
 
+## Emission spectrum
+
+When heat is applied, electrons become 'excited' gain energy and move from an inner shell to an outer one (away from the nucleus)
