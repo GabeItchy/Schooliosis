@@ -4,12 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7b9aafc11beb23",
+        "id": "947cd553e86f8966",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "English/8022022 Holocaust Documentary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fc782f1d55d66dd7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "fcfc2755fb6ccd7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +82,6 @@
       {
         "id": "2982737ac3cc1b17",
         "type": "tabs",
-        "dimension": 48.36829836829836,
         "children": [
           {
             "id": "70eb31c607c0cae6",
@@ -70,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/8022022 Holocaust Documentary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +107,24 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "bf1c15e9f1353a9b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "5d504dbecd8ca9dd",
+        "id": "ef8cb304cb1fc897",
         "type": "tabs",
-        "dimension": 51.63170163170164,
         "children": [
           {
-            "id": "db9f20f1a992d22a",
+            "id": "81f8425989b0204e",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -111,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ec7b9aafc11beb23",
+  "active": "fcfc2755fb6ccd7a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "English/8022022 Holocaust Documentary.md",
-    "10022022 Bohr Model and Valence.md",
+    "Boys Teams Sports/Substance Use Disorder.md",
+    "Humanities/10022022 The Interwar Years.md",
+    "Humanities/7022022 WW1 Notes.md",
     "Science/10022022 Bohr Model and Valence.md",
     "Science/8022022 Periodic Table.md",
-    "conflict-files-obsidian-git.md",
-    "Humanities/Glossary.md",
-    "Humanities/11022022 Agreeing to terms.md",
     "Science/9022022 Group 1A and 2A.md",
-    "Humanities/7022022 WW1 Notes.md",
-    "English/The Tatooist of Aushwitz.md"
+    "le great todo.md",
+    "English/Five Fun Facts About The Holocaust.md"
   ]
 }
