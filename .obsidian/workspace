@@ -88,14 +88,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "db9f20f1a992d22a",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -123,13 +115,13 @@
   "lastOpenFiles": [
     "Humanities/Glossary.md",
     "Humanities/11022022 Agreeing to terms.md",
+    "Science/9022022 Group 1A and 2A.md",
     "Humanities/7022022 WW1 Notes.md",
     "conflict-files-obsidian-git.md",
     "English/The Tatooist of Aushwitz.md",
     "English/8022022 Holocaust Documentary.md",
     "English/Five Fun Facts About The Holocaust.md",
     "Science/4022022.md",
-    "Science/8022022 Periodic Table.md",
-    "Science/9022022 Group 1A and 2A.md"
+    "Science/8022022 Periodic Table.md"
   ]
 }
