@@ -15,13 +15,20 @@
       "key": "="
     }
   ],
-  "obsidian-git:pull": [],
   "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "0"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
     }
   ]
 }
