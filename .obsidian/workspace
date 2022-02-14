@@ -16,20 +16,12 @@
         }
       },
       {
-        "id": "fc782f1d55d66dd7",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "fcfc2755fb6ccd7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Boys Teams Sports/Substance Use Disorder.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Boys Teams Sports/Substance Use Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +131,9 @@
   },
   "active": "fcfc2755fb6ccd7a",
   "lastOpenFiles": [
+    "Boys Teams Sports/Substance Use Disorder.md",
     "conflict-files-obsidian-git.md",
     "English/8022022 Holocaust Documentary.md",
-    "Boys Teams Sports/Substance Use Disorder.md",
     "Humanities/10022022 The Interwar Years.md",
     "Humanities/7022022 WW1 Notes.md",
     "Science/10022022 Bohr Model and Valence.md",
