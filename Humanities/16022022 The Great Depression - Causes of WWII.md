@@ -18,5 +18,8 @@
 		- By the late 1920s the world economy began to slow.
 		- Work became harder to find - unemployment began to rise
 		- Companies couldn't sell their products and prices of mass produced goods dropped world-wide.
-3. Increasing resentment in Germany
-4. The Third Reich
+	**Impact on Australians**
+		 - Our economy was heavily reliant on other countries - in particular, Great Britain.
+		 - When world trade was cut down by 2/3 almost 50 000 Australian found themselves unemployed overnight.
+1. Increasing resentment in Germany
+2. The Third Reich
