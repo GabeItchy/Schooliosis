@@ -5,8 +5,14 @@
 (Drug addiction (substance use disorder) - Symptoms and causes, 2022)
 
 
-**Triggers:** *A trigger for Sustance Use can be being pescribed a drug and becoming addicted to it.*
+**Triggers:** *Similar to many mental health problems, many causes of drug addictions can be the environment that you live in, furthermore this includes the exposure to a certain peer groups that encourage the use of drug. (This type of group seems to play a role in the beginning of drug use.)
 
+Once the use of drug was begun, the development leading to addiction can be influence by genetic traits which can slow down or speed up the progression of the problem.
+*
+(Drug addiction (substance use disorder) - Symptoms and causes, 2022)
+
+**Impacts:** *The first impacts that can happen are phsyical changes to the face, body or limbs but they can also happen internally with rotting organs or it can cause damage to neurons in the brain. These changes can linger long after you recover from drug addiction. Once deep into this addiction, the person may exhibit intense urges for the drug that can interfere with their everyday life. Continuing on the subject of society, these type of people will have the need to spend moeny on the drugs even if they cannot afford it. This means that they will find other ways to obtain money to get this drug, meaning they may look to a life of crime or be in debt to a loan shark.*
+(Drug addiction (substance use disorder) - Symptoms and causes, 2022)
 
 
 
@@ -37,4 +43,4 @@
 ## Bibliography 
 
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 13 February 2022].
-- 
+- Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 15 February 2022].
