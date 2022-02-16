@@ -11,8 +11,11 @@ Once the use of drug was begun, the development leading to addiction can be infl
 *
 (Drug addiction (substance use disorder) - Symptoms and causes, 2022)
 
-**Impacts:** *The first impacts that can happen are phsyical changes to the face, body or limbs but they can also happen internally with rotting organs or it can cause damage to neurons in the brain. These changes can linger long after you recover from drug addiction. Once deep into this addiction, the person may exhibit intense urges for the drug that can interfere with their everyday life. Continuing on the subject of society, these type of people will have the need to spend moeny on the drugs even if they cannot afford it. This means that they will find other ways to obtain money to get this drug, meaning they may look to a life of crime or be in debt to a loan shark.*
+**Impacts (Social):** *The first impacts that can happen are phsyical changes to the face, body or limbs but they can also happen internally with rotting organs or it can cause damage to neurons in the brain. These changes can linger long after you recover from drug addiction. Once deep into this addiction, the person may exhibit intense urges for the drug that can interfere with their everyday life. Continuing on the subject of society, these type of people will have the need to spend moeny on the drugs even if they cannot afford it. This means that they will find other ways to obtain money to get this drug, meaning they may look to a life of crime or be in debt to a loan shark.*
 (Drug addiction (substance use disorder) - Symptoms and causes, 2022)
+
+**Impacts (Community):** The affects that drug abuse has on the community is devastating, it affects the industry, education and training and the families. Drug abuse also contributes to violence, crime, housing problems, financial problems, homelessness and vagrancy.
+
 
 
 
