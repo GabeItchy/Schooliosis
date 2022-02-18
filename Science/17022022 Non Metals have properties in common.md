@@ -19,4 +19,4 @@
 ## Group 18 - The Noble Gases
 - The noble gases, such as neon and argon are found in group 18
 - The noble gases have 8 electrons in their outer shell (except helium that has 2)
-- They are all gases at room temperature and are very unreactive.
+- They are all gases at room temperature a5nd are very unreactive.
