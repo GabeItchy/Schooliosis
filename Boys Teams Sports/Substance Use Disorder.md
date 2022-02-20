@@ -41,8 +41,6 @@ Once the use of drug was begun, the development leading to addiction can be infl
 
 
 
-
-
 ## Bibliography 
 
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 13 February 2022].
