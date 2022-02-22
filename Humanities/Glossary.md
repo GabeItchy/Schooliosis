@@ -7,3 +7,4 @@ Dictator - **A ruler with total power over a country, typically one who has obta
 Fascism - **In which a government ruled by a dictator has complete control over the lives of citizens and criticism of the government is suppressed by force.**
 Communism: **All property is owned by the communit and each person contributes and receives according to their ability and needs**
 Propaganda: **Information, especially of a biased or misleading nature, used to promote a political cause or point of view.**
+Coup: **A sudden, violent and illegal seizure of power from a government**
