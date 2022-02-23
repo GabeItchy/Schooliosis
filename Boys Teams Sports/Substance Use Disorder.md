@@ -15,6 +15,14 @@ Once the use of drug was begun, the development leading to addiction can be infl
 (Drug addiction (substance use disorder) - Symptoms and causes, 2022)
 
 **Impacts (Community):** The affects that drug abuse has on the community is devastating, it affects the industry, education and training and the families. Drug abuse also contributes to violence, crime, housing problems, financial problems, homelessness and vagrancy.
+((R, 2022))
+
+**Critique Support services:** 
+- Opioid Treatment Line review 
+- National Alcohol and Other Drugs Hotline
+- family drug support reviews
+
+**Propose Appropriate ways communities can react to and support those experiencing my chosen mental health disorder:** Provide helps and services for those who are affected by drug addicton, provide a doctor for a proper way to ease them out of addiction.
 
 
 
@@ -45,3 +53,4 @@ Once the use of drug was begun, the development leading to addiction can be infl
 
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 13 February 2022].
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 15 February 2022].
+- R, S., 2022. _The social impact of drug abuse on community life_. [online] PubMed. Available at: <https://pubmed.ncbi.nlm.nih.gov/1886469/> [Accessed 16 February 2022].
