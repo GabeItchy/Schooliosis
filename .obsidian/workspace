@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/10022022 Bohr Model and Valence.md",
+            "file": "le great todo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e2beb3b46049ffd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/10022022 Bohr Model and Valence.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300
   },
-  "active": "947cd553e86f8966",
+  "active": "8e2beb3b46049ffd",
   "lastOpenFiles": [
-    "Science/10022022 Bohr Model and Valence.md",
-    "Science/9022022 Group 1A and 2A.md",
-    "Science/8022022 Periodic Table.md",
-    "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
-    "Boys Teams Sports/Substance Use Disorder.md",
-    "Humanities/16022022 The Great Depression - Causes of WWII.md",
-    "English/8022022 Holocaust Documentary.md",
     "conflict-files-obsidian-git.md",
-    "Humanities/10022022 The Interwar Years.md",
-    "Humanities/7022022 WW1 Notes.md"
+    "le great todo.md",
+    "English/24022022 5 W - Tattooist of Auschwitz.md",
+    "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
+    "Science/17022022 Non Metals have properties in common.md",
+    "Science/9022022 Group 1A and 2A.md",
+    "Science/10022022 Bohr Model and Valence.md",
+    "Humanities/23022022 Significant Individual - Adolf Hitler.md",
+    "Humanities/Glossary.md",
+    "Humanities/21022022 The Third Reich.md"
   ]
 }
