@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "8e2beb3b46049ffd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "le great todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +117,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8e2beb3b46049ffd",
+  "active": "947cd553e86f8966",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "le great todo.md",
+    "conflict-files-obsidian-git.md",
     "English/24022022 5 W - Tattooist of Auschwitz.md",
     "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
     "Science/17022022 Non Metals have properties in common.md",
