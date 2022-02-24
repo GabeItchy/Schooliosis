@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "le great todo.md": [
+      {
+        "title": "Math test [PREPARE]",
+        "time": "2022-02-27",
+        "rowNumber": 4
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
