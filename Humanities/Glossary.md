@@ -8,3 +8,5 @@ Fascism - **In which a government ruled by a dictator has complete control over 
 Communism: **All property is owned by the communit and each person contributes and receives according to their ability and needs**
 Propaganda: **Information, especially of a biased or misleading nature, used to promote a political cause or point of view.**
 Coup: **A sudden, violent and illegal seizure of power from a government**
+Conscription: **Compulsory Military Service**
+Blitzkrieg: **A swift, focused military offensive blow using mobile, manoeuvrable forces, including armoured tanks and air support. Ideally leads to a quick victory, limiting loss of soldiers and artillery**
