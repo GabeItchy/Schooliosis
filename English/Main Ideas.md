@@ -9,7 +9,7 @@
 - Knowledge
 	- 
 - Alienation
-	- Selection for the Death Camp
+	- Selection for the Death Camps
 - Survival
 	- 
 - Adversity
