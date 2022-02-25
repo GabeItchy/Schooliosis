@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "le great todo.md": [
+      {
+        "title": "Science Test [PREPARE][Monday 28th February]",
+        "time": "2022-02-26",
+        "rowNumber": 6
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
