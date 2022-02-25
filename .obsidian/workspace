@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Humanities/23022022 Significant Individual - Adolf Hitler.md",
-            "mode": "source"
+            "file": "English/24022022 5 W - Tattooist of Auschwitz.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/23022022 Significant Individual - Adolf Hitler.md",
+                "file": "English/24022022 5 W - Tattooist of Auschwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +95,14 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "3f93081b9671c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -104,9 +113,15 @@
   },
   "active": "ec7b9aafc11beb23",
   "lastOpenFiles": [
+    "English/24022022 5 W - Tattooist of Auschwitz.md",
+    "English/8022022 Holocaust Documentary.md",
+    "English/21022022 Ideas in Schindlers List.md",
+    "English/Five Fun Facts About The Holocaust.md",
+    "English/The Tatooist of Aushwitz.md",
+    "Science/17022022 Non Metals have properties in common.md",
+    "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
+    "Humanities/Glossary.md",
     "Humanities/23022022 Significant Individual - Adolf Hitler.md",
-    "Humanities/21022022 The Third Reich.md",
-    "Humanities/18022022 The Rise of Dictatorships.md",
-    "Todo.md"
+    "Humanities/21022022 The Third Reich.md"
   ]
 }
