@@ -3,14 +3,19 @@
   "reminders": {
     "le great todo.md": [
       {
+        "title": "Math test Cheat Sheet Pg.97[PREPARE (Thursday 10th March)]",
+        "time": "2022-02-27",
+        "rowNumber": 4
+      },
+      {
         "title": "Revise over 2F [MATH]",
         "time": "2022-02-25",
         "rowNumber": 5
       },
       {
-        "title": "Math test Cheat Sheet Pg.97[PREPARE (Thursday 10th March)]",
-        "time": "2022-02-27",
-        "rowNumber": 4
+        "title": "Science Test [PREPARE][Monday 28th February]",
+        "time": "2022-02-26",
+        "rowNumber": 6
       }
     ]
   },
