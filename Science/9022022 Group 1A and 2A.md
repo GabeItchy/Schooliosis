@@ -12,7 +12,7 @@ Sc. To explain some of the characteristics of the first two groups of the period
 
 Metals have many properties in common:
 - Lustrous 
-- Able to conduct head and electricity
+- Able to conduct heat and electricity
 - Malleable
 - Ducticle
 
