@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Main Ideas.md",
+            "file": "Science/9022022 Group 1A and 2A.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Main Ideas.md",
+                "file": "Science/9022022 Group 1A and 2A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "947cd553e86f8966",
   "lastOpenFiles": [
+    "Science/9022022 Group 1A and 2A.md",
+    "Science/8022022 Periodic Table.md",
     "English/Main Ideas.md",
     "conflict-files-obsidian-git.md",
     "English/The Tatooist of Aushwitz.md",
@@ -126,8 +129,6 @@
     "English/24022022 5 W - Tattooist of Auschwitz.md",
     "English/21022022 Ideas in Schindlers List.md",
     "English/8022022 Holocaust Documentary.md",
-    "Humanities/21022022 The Third Reich.md",
-    "Humanities/25022022 The Course of WWII in Europe and the Pacific.md",
-    "Humanities/Glossary.md"
+    "Humanities/21022022 The Third Reich.md"
   ]
 }
