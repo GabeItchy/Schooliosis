@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "835a3e816edfc908",
+        "id": "947cd553e86f8966",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English Draft.md",
+            "file": "English/English Draft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Draft.md",
+                "file": "English/English Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "835a3e816edfc908",
+  "active": "947cd553e86f8966",
   "lastOpenFiles": [
-    "English Draft.md",
-    "Boys Teams Sports/Substance Use Disorder.md",
-    "Science/17022022 Non Metals have properties in common.md",
-    "le great todo.md",
-    "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
-    "Science/10022022 Bohr Model and Valence.md",
-    "Science/9022022 Group 1A and 2A.md",
-    "Science/8022022 Periodic Table.md",
+    "English/English Draft.md",
+    "Untitled.md",
     "English/Main Ideas.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "English/The Tatooist of Aushwitz.md",
+    "English/Five Fun Facts About The Holocaust.md",
+    "English/24022022 5 W - Tattooist of Auschwitz.md",
+    "English/21022022 Ideas in Schindlers List.md",
+    "English/8022022 Holocaust Documentary.md",
+    "Humanities/21022022 The Third Reich.md"
   ]
 }
