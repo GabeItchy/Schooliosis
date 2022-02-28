@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "le great todo.md": [
+      {
+        "title": "Revise over 2F [MATH]",
+        "time": "2022-03-02",
+        "rowNumber": 5
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
