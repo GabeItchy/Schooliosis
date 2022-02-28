@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boys Teams Sports/Substance Use Disorder.md",
+            "file": "English Draft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boys Teams Sports/Substance Use Disorder.md",
+                "file": "English Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "835a3e816edfc908",
   "lastOpenFiles": [
+    "English Draft.md",
     "Boys Teams Sports/Substance Use Disorder.md",
     "Science/17022022 Non Metals have properties in common.md",
     "le great todo.md",
@@ -127,7 +128,6 @@
     "Science/9022022 Group 1A and 2A.md",
     "Science/8022022 Periodic Table.md",
     "English/Main Ideas.md",
-    "conflict-files-obsidian-git.md",
-    "English/The Tatooist of Aushwitz.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
