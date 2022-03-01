@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/1032022 Distance and Displacement.md",
+            "file": "2032022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/1032022 Distance and Displacement.md",
+                "file": "2032022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "835a3e816edfc908",
   "lastOpenFiles": [
+    "2032022.md",
     "Science/1032022 Distance and Displacement.md",
     "le great todo.md",
     "English/English Draft.md",
@@ -128,7 +129,6 @@
     "Science/17022022 Non Metals have properties in common.md",
     "Science/18022022 Metal Cations and Non Metal Anions combine to form Ionic Compounds.md",
     "Science/10022022 Bohr Model and Valence.md",
-    "Science/9022022 Group 1A and 2A.md",
-    "Science/8022022 Periodic Table.md"
+    "Science/9022022 Group 1A and 2A.md"
   ]
 }
