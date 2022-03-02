@@ -5,4 +5,4 @@
 - [ ] Math test Cheat Sheet Pg.97[PREPARE (Thursday 10th March)](@2022-03-03 12:00)
 - [x] Revise over 2F [MATH](@2022-03-03)
 - [x] Science Test [PREPARE][Monday 28th February] (@2022-02-26)
-- [ ] Shorten your draft and write it out into a story (@2022-03-03 10:00)
+- [x] Shorten your draft and write it out into a story (@2022-03-03 10:00)

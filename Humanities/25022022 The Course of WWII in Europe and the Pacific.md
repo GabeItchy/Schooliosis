@@ -163,3 +163,58 @@ After 6 days trekking through the dense jungle without food, Guest and his men r
 23 August - Battle of Stalingrad
 
 Once the winter passes Hitler directs forces toward southern Russian oilfields where they reach Stalingrad.
+
+**1943**
+
+2 Feb - Nazis Surrender at Stalingrad
+
+Nov - Tehran conference allied forces strategise
+
+**1944**
+
+Sept - Allied forces invade the west of Germany and bomb Berlin
+
+**1945**
+
+8 March - Single raid on Tokyo by Allied Forces killed 83,000 people, mainly civilians
+				As US forces get closet to mainland Japan, Japanese de ufence becomes more desperate.
+				Japanese Kamikaze Pilots carry out suicide missions crashing their planes into US ships.
+				The US Government begins to consider nuclear warfare
+
+				**The Manhatten Project**
+
+				US research program that developed the first atomic bomb. Physicists Leo 
+                Szilard and Albert Einstein warned US President Franklin D. Roosevelt in 
+                1939 that Nazi Germany were researching atomic weapons and they would 
+                start their own program.
+				Before the US entered the war it was dedication huge resources to the 
+                Manhattan Project
+
+**Back to Europe**
+
+Germany has been forced out of most of Eastern Europe with Soviet troops occupying Russia, Poland, Romania, Czechoslovakia and the Baltic States.
+
+			16 April - Battle of Berlin
+			The Soviets encircled Berlin and launched final assault.
+
+		    30 April - Hitler dies by suicide
+
+			2 May - Soviets seize Berlin
+			7 May - Germany officially surrenders
+
+			-The war in Europe ends-
+
+			Victors meet at the Potsdam Conference to decide Germany's fate.
+			Germany is divided up amongst the winners of the war.
+
+			July - US issues ultimatum to Japn - if they did not 'unconditionally 
+                          surrender', they would face "prompt and utter destruction". Japan 
+                          ignores this
+
+			August - Heavily bombed by the US for several months - More than 60 large 
+                             industrials cities are devasted
+
+			6 August - US drops and atomic bomb on Hiroshima
+			9 August - US drops an atomic bomb on Nagasaki
+			2 September - Japan surrenders
+			-The war in the Pacific ends-
