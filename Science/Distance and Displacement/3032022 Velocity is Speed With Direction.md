@@ -47,11 +47,11 @@ Velocity is a vector quantity because it has size and direction
 $$
 V={\frac{D}{T}}
 $$
-**Average Time = Displacement / Velocity
+Average Time = Displacement / Velocity
 $$
 T= \frac{D}{V}
 $$
-**Displacement = Time * Velocity**
+Displacement = Time * Velocity**
 $$
 D= T * V
 $$
@@ -60,3 +60,5 @@ $$
 *In a speed-time graph, speed is on the y axis, time on the x axis
 ![[Pasted image 20220303090920.png]]
 If the graph is sloping upwards, the velocity is increasing. If the graph is sloping downwards, the velocity is decreasing. *
+
+**To find displacement from a graph, you find the area of the shape**
