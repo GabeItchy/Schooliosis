@@ -157,3 +157,9 @@ Displays of Courage and mateship
 After Bill Guest's battalion failed to recapture Kokoda in August 1942 they were forced to pull out. Though most soldiers retreated, he and 21 other soldiers stayed to make sure the wounded made it out safely.
 
 After 6 days trekking through the dense jungle without food, Guest and his men rejoined the trest of the battalion in time for another battle.
+
+**Back to Europe**
+
+23 August - Battle of Stalingrad
+
+Once the winter passes Hitler directs forces toward southern Russian oilfields where they reach Stalingrad.
