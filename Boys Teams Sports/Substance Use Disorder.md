@@ -22,7 +22,11 @@ Once the use of drug was begun, the development leading to addiction can be infl
 - National Alcohol and Other Drugs Hotline
 - family drug support reviews
 
-**Propose Appropriate ways communities can react to and support those experiencing my chosen mental health disorder:** Provide helps and services for those who are affected by drug addicton, provide a doctor for a proper way to ease them out of addiction.
+**Propose Appropriate ways communities can react to and support those experiencing my chosen mental health disorder:** 
+
+## The All Rounder Campaign
+
+This campaign combines the "Party Smarter" and the "Little White Lies" campaigns to educated young teens about the dangers of peer pressure and drug related activities events such as parties, music events and festivals 
 
 
 
