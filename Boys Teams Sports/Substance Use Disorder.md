@@ -28,6 +28,9 @@ Once the use of drug was begun, the development leading to addiction can be infl
 
 This campaign combines the "Party Smarter" and the "Little White Lies" campaigns to educated young teens about the dangers of peer pressure and drug related activities events such as parties, music events and festivals 
 
+**Partying, Music events and festivals**
+
+Because of the environment of these events, people are jumping around, dancing,
 
 
 
