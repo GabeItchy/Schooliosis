@@ -30,7 +30,7 @@ This campaign combines the "Party Smarter" and the "Little White Lies" campaigns
 
 **Partying, Music events and festivals**
 
-Because of the environment of these events, people are jumping around, dancing,
+Because of the environment of these events, people are jumping around, dancing and are close to each other. If a person were to be under the influence of drugs during
 
 
 
