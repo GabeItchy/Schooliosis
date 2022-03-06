@@ -39,7 +39,7 @@ If you're feeling confused, agitated or have an extreme headache, it is complete
 
 **Little White Lies**
 
-}This campaign aims to reduce or delay the intent to use ilicit drugs in young people. It has been shown that young people tend to be more open to trying out drugs and disregard or underestimate the risks that come from these drugs. Furthermore they also overestimate the pleasure that comes from the drug, meaning they will take more to try and get the pleassure that they were promised.
+This campaign aims to reduce or delay the intent to use ilicit drugs in young people. It has been shown that young people tend to be more open to trying out drugs and disregard or underestimate the risks that come from these drugs. Furthermore they also overestimate the pleasure that comes from the drug, meaning they will take more to try and get the pleassure that they were promised.
 
 This is all caused by the prefrontal cortex, which is responsible for impulse control, working memory and most importantly, decision making. During the time of the developing brain, also known as adolescence, young people are at a higher risk of peer pressure, and because they're their friends or someone whom they trust a lot, they will believe that this behaviour is normal. Additionally, young people are more worried about how they're viewed by their peers than their health, so they will go and try out the drug headfirst without a worry about what comes next.
 
