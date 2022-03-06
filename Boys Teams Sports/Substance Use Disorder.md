@@ -30,8 +30,12 @@ This campaign combines the "Party Smarter" and the "Little White Lies" campaigns
 
 **Partying, Music events and festivals**
 
-If a person were to be under the influence of drugs during these types of events they can be subject to potential harm. In the Drug Interaction Model, it says "Due to factors closely lined to music festivals and other entertainment events such as high temperatures, extended periods of physical acitivity, close proximity to other, and lack of access the effects the drug taken can be exacerbated". This section of the campaign aims to educate young teens on how dangerous taking drugs in extreme environments
+If a person were to be under the influence of drugs during these types of events they can be subject to potential harm. In the Drug Interaction Model, it says "Due to factors closely lined to music festivals and other entertainment events such as high temperatures, extended periods of physical acitivity, close proximity to other, and lack of access the effects the drug taken can be exacerbated". This section of the campaign aims to educate young teens on how dangerous taking drugs in extreme environments can be.
 
+
+MDMA, or ectasy or molly is a drug that is commonly found in these types of event. The use of this drug during these types of events can cause heat strokes, hyponatremia (A salt deficiency) and serotonin toxicity.
+
+If you're feeling confused, agi
 
 
 
