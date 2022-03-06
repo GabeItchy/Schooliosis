@@ -78,3 +78,5 @@ These two campaigns go hand in hand, at parties you can be introduced to drugs b
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 13 February 2022].
 - Mayo Clinic. 2022. _Drug addiction (substance use disorder) - Symptoms and causes_. [online] Available at: <https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112> [Accessed 15 February 2022].
 - R, S., 2022. _The social impact of drug abuse on community life_. [online] PubMed. Available at: <https://pubmed.ncbi.nlm.nih.gov/1886469/> [Accessed 16 February 2022].
+- Us, A. and Campaigns, C., 2022. _Party Smarter - Safer Events & Festival Campaign | Drug Aware_. [online] Drug Aware. Available at: <https://drugaware.com.au/about-us/current-campaigns/party-smarter/> [Accessed 6 March 2022].
+- Us, A. and Campaigns, C., 2022. _Little White Lies campaign | Drug Aware_. [online] Drug Aware. Available at: <https://drugaware.com.au/about-us/current-campaigns/little-white-lies/> [Accessed 6 March 2022].
