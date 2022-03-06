@@ -45,7 +45,7 @@ This is all caused by the prefrontal cortex, which is responsible for impulse co
 
 ## Why join them?
 
-These two campaigns go hand in hand,
+These two campaigns go hand in hand, at parties you can be introduced to drugs by peers and that can become the cause of a drug addiction. Furthermore, it is important to understand that dangers of drugs, the consequences that come afterwards and the causes of drug addiction and how to avoid such things.
 
 
 
