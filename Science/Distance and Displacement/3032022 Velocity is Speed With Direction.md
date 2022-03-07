@@ -66,3 +66,27 @@ $$
 If the graph is sloping upwards, the velocity is increasing. If the graph is sloping downwards, the velocity is decreasing. *
 
 **To find displacement from a graph, you find the area of the shape**  
+
+ **Acceleration**
+
+ Acceleration is the rate at which the speed of an object changes. This is measured in m/s^2 or km/h^1
+
+ If an object travels at a aconstand speed, the acceleration is zero
+
+ **Deceleration**
+
+Deceleration is the rate at which the speed slows down (negative acceleration)
+
+**Calculating Acceleration**
+
+To calculate the acceleeration, divide the change in speed by the change in time.
+
+The formula for calculating the acceleration is 
+
+The v is the 'final speed'
+The u is the 'starting speed'
+
+The Δ means 'a change in'
+
+## The Acceleration Triangle
+![[Pasted image 20220308093348.png]]
