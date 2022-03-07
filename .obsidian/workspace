@@ -7,8 +7,12 @@
         "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Humanities/7032022 The Holocaust.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Humanities/7032022 The Holocaust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +119,15 @@
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
+    "Humanities/7032022 The Holocaust.md",
+    "Science/Distance and Displacement/1032022 Distance and Displacement.md",
+    "Science/Distance and Displacement/3032022 Velocity is Speed With Direction.md",
+    "Humanities/Glossary.md",
+    "English/8022022 Holocaust Documentary.md",
+    "Humanities/25022022 The Course of WWII in Europe and the Pacific.md",
     "English/English Draft.md",
     "Boys Teams Sports/Substance Use Disorder.md",
     "English/Main Ideas.md",
-    "Humanities/25022022 The Course of WWII in Europe and the Pacific.md",
-    "Humanities/Untitled.md",
-    "Science/Distance and Displacement/3032022 Velocity is Speed With Direction.md",
-    "le great todo.md",
-    "Science/Distance and Displacement/1032022 Distance and Displacement.md",
-    "conflict-files-obsidian-git.md",
-    "Science/Atoms and Periodic Table/8022022 Periodic Table.md"
+    "Humanities/Untitled.md"
   ]
 }

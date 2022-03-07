@@ -10,3 +10,4 @@ Propaganda: **Information, especially of a biased or misleading nature, used to 
 Coup: **A sudden, violent and illegal seizure of power from a government**
 Conscription: **Compulsory Military Service**
 Blitzkrieg: **A swift, focused military offensive blow using mobile, manoeuvrable forces, including armoured tanks and air support. Ideally leads to a quick victory, limiting loss of soldiers and artillery**
+Ghettos: **Small aras of larger cities used to isolate Jews from the rest of the population, bricked off or encircled with barbed wire.**
