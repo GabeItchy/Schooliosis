@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "835a3e816edfc908",
+        "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "English/English Draft.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "835a3e816edfc908",
+  "active": "854546bebd53db0e",
   "lastOpenFiles": [
     "English/English Draft.md",
     "Boys Teams Sports/Substance Use Disorder.md",
