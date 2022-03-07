@@ -61,4 +61,4 @@ $$
 ![[Pasted image 20220303090920.png]]
 If the graph is sloping upwards, the velocity is increasing. If the graph is sloping downwards, the velocity is decreasing. *
 
-**To find displacement from a graph, you find the area of the shape**
+**To find displacement from a graph, you find the area of the shape**  
