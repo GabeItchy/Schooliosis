@@ -55,6 +55,10 @@ Displacement = Time * Velocity**
 $$
 D= T * V
 $$
+**Acceleration = Velocity / Time
+$$
+A={\frac{V}{T}}
+$$
 ## Speed Time Graph
 
 *In a speed-time graph, speed is on the y axis, time on the x axis
