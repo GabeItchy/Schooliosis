@@ -21,3 +21,7 @@ Prompt: Write a piece from the perspective of a person who is a victim or totali
 
 In the dead of night, we will slip past the guards and run to Vilma
 
+[Passage Unreadable]
+Narrator : From sources in Vilma we have learnt that the youth group had set up a central headquarter in Vilma,  in which they launched a series of unsuccessful attempts to immigrate to Palestine, illegally.
+
+Later on, Altman was instructed to return to "Generalgouvernement" also known as Nazi-occupied Poland.
