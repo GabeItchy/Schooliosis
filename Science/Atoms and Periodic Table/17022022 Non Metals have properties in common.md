@@ -1,4 +1,4 @@
-## Non-Metals have properties in common
+ ## Non-Metals have properties in common
 
 **Metalloids**
 *Metalloids are the small set of elements along the 'staircase' diagonal boundary between the metals and non-metals*
