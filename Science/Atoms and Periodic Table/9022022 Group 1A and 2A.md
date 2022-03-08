@@ -5,8 +5,7 @@ Sc. To explain some of the characteristics of the first two groups of the period
 
 **Elements
 
-- There are three main types of elements: metals, non-metals & metalloids
-- Metals are defined by their lustrous appearance and their ability to conduct heat.
+- There are three main types of elements: metals, non-metals & metalloids- Metals are defined by their lustrous appearance and their ability to conduct heat.
 
 **Metals
 
@@ -45,6 +44,4 @@ The alkaline earth metals, such as magnesium and calcium are found in group 2:
 - A small number are magnetic
 - Silvery in color (except gold and copper)
 - Many form coloured compounds, such as gemstones
-
-
 
