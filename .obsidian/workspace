@@ -7,8 +7,12 @@
         "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/Summary Table of The Tattooist of Auschwitz.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/Summary Table of The Tattooist of Auschwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +119,8 @@
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
-    "English/The Tatooist of Aushwitz.md",
     "English/Summary Table of The Tattooist of Auschwitz.md",
+    "English/The Tatooist of Aushwitz.md",
     "Science/Atoms and Periodic Table/9022022 Group 1A and 2A.md",
     "Science/Atoms and Periodic Table/8022022 Periodic Table.md",
     "Science/Atoms and Periodic Table/17022022 Non Metals have properties in common.md",
