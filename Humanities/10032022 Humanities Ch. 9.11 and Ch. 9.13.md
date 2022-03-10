@@ -27,4 +27,30 @@
 
 		They had increased their commitment to the war after the Japanese naval and air forces launched an unprovoked attack on the British and United States territories. Australia being very close with Britain put their full commitment to the war because their "vital interests are imperilled and because the rights of free people in the whole Pacific are assailed."
 
+## 9.13 Life on the home front: The changing role of women.
+
+**9.13 Check your learning**
+
+1.  List the kinds of jobs that women did in the services and for the general economy during the war.
+
+		They were expected to knit and sew, pack parcels, raise money, encourage enlistment and maintain the home.
+
+2. Identify how many Australian women served in the army.
+
+		Around 35 000 women served in the army, making up around 5 percent of the entire force.
+
+3. Describe the purpose of the Woman's Land army
+
+		They were set up to distribute female labour to farms and orcahrds to keep food production going.
+
+4. Analyse Source 12 as a piece of wartime propaganda
+
+		This propaganda was aimed to attract women into the services. It showed the range of jobs that the women are able to do. The women are shown with smiling faces to show that the job can provide joy and possibly a lot of money.
+
+5.  Analyse Source 15. What do you observe? What does this tell us about women in the workplace in Australia
+
+
+6.  To what extent did the war change the role and status of Australian women? Use evidence to support your answer.
+
+		The war has increased job oppurtunities for women to serve in the army.
 		
