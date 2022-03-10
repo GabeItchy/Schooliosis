@@ -49,8 +49,8 @@
 
 5.  Analyse Source 15. What do you observe? What does this tell us about women in the workplace in Australia
 
-
-6.  To what extent did the war change the role and status of Australian women? Use evidence to support your answer.
+		There is an increase of employment
+1.  To what extent did the war change the role and status of Australian women? Use evidence to support your answer.
 
 		The war has increased job oppurtunities for women to serve in the army.
 		
