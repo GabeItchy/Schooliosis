@@ -32,3 +32,6 @@
  |                    |                                             |                                      | I will live to leave this place. I will walk out a   |
  |                    |                                             |                                      | free man. If there is a hell, I will see these       |
  |                    |                                             |                                      | murderers burn in it.                                |
+ |                    |                                             |                                      |                                                      |
+ |                    |                                             |                                      | He must trust no one, reveal little about himself,   |
+ |                    |                                             |                                      | be cautious.                                                     |
