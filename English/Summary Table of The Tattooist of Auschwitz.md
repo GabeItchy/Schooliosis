@@ -34,4 +34,10 @@
  |                    |                                             |                                      | murderers burn in it.                                |
  |                    |                                             |                                      |                                                      |
  |                    |                                             |                                      | He must trust no one, reveal little about himself,   |
- |                    |                                             |                                      | be cautious.                                                     |
+ |                    |                                             |                                      | be cautious.                                         |
+ |                    |                                             |                                      |                                                      |
+ |                    |                                             |                                      | He wonders if by moving from builder to dogsbody     |
+ |                    |                                             |                                      | he is making a deal with the devil.                  |
+ |                    |                                             |                                      | Lale is going to survive even if it means making a   |
+ |                    |                                             |                                      | deal with the devil                                  |
+ |                    |                                             |                                      |                                                      |
