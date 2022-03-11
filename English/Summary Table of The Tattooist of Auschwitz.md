@@ -19,10 +19,16 @@
  |                    |                                             |                                      |                                                      |
  |                    | Location: Auschwitz 1                       |                                      | His life is too good to end in a stinkhole  pg.6     |
  |                    |                                             |                                      |                                                      |
- |                    |                                             |                                      | He acknowledges that man's death with a quick prayer |
+ |                    | Lale lives in a village called: Kompache    |                                      | He acknowledges that man's death with a quick prayer |
  |                    |                                             |                                      |                                                      |
- |                    |                                             |                                      | Work will make you free (Ironic Quote)               |
+ |                    | His father is a carriage driver             |                                      | Work will make you free (Ironic Quote)               |
  |                    |                                             |                                      |                                                      |
- |                    |                                             |                                      | Do as you're told and everything will be alright     |
+ |                    | Lale will do anything to survive the camp   |                                      | Do as you're told and everything will be alright     |
  |                    |                                             |                                      |                                                      |
-.
+ |                    |                                             |                                      | There was a hesitant but real laugh                  |
+ |                    |                                             |                                      | Even though they are at the darkest point of their   |
+ |                    |                                             |                                      | lives, they were still able to laugh.                |
+ |                    |                                             |                                      |                                                      |
+ |                    |                                             |                                      | I will live to leave this place. I will walk out a   |
+ |                    |                                             |                                      | free man. If there is a hell, I will see these       |
+ |                    |                                             |                                      | murderers burn in it.                                |
