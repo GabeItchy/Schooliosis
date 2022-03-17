@@ -46,8 +46,8 @@
  |                    | Pepan only accepted the job to help others and wants Lale                |                                           | I saw a half starved young man risk his life to save |
  |                    | to take the job or someone has less soul will do more damage             |                                           | you, I figure you must be someone worth saving.      |
  |                    | The job is defiling hundreds of innocent people but, he is               |                                           |                                                      |
- |                    | working with Pepan so he will simultaniously be helping others           |                                           |                                                      |
+ |                    | working with Pepan so he will simultaniously be helping others           |                                           | To save one is to save the world                     |
  |                    | Aswell. Pepan convinces Lale that being a tattooist is better than       |                                           |                                                      |
- |                    | working as the kapo's assistant because he will still be a Nazi puppet   |                                           |                                                      |
+ |                    | working as the kapo's assistant because he will still be a Nazi puppet   |                                           | Lale has a debt that he cannot pay                   |
  |                    | but either way if he is working for Pepan or the soldiers, he will still |                                           |                                                      |
  |                    | be doing their dirty work.                                               |                                           |                                                      |
