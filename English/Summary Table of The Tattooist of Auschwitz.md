@@ -51,3 +51,7 @@
  |                    | working as the kapo's assistant because he will still be a Nazi puppet   |                                           | Lale has a debt that he cannot pay                   |
  |                    | but either way if he is working for Pepan or the soldiers, he will still |                                           |                                                      |
  |                    | be doing their dirty work.                                               |                                           |                                                      |
+ |                    |                                                                          |                                           |                                                      |
+ | Chapter 3          | His dream sequence represents an escape from the horrors of reality      |                                           |                                                      |
+ |                    | and whats going to come                                                  |                                           |                                                      |
+ |                    |                                                                          |                                           |                                                      |
