@@ -52,6 +52,6 @@
  |                    | but either way if he is working for Pepan or the soldiers, he will still |                                           |                                                      |
  |                    | be doing their dirty work.                                               |                                           |                                                      |
  |                    |                                                                          |                                           |                                                      |
- | Chapter 3          | His dream sequence represents an escape from the horrors of reality      |                                           |                                                      |
+ | Chapter 3          | His dream sequence represents an escape from the horrors of reality      | Leon                                      |                                                      |
  |                    | and whats going to come                                                  |                                           |                                                      |
  |                    |                                                                          |                                           |                                                      |
