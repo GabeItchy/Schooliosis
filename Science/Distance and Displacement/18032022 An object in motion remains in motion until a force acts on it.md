@@ -18,3 +18,31 @@ A pebble would have less inertia than a boulder.
 If the two forces are equal in strength (Balanced) we say the object has zero net force.*
 
 ***Net Force*** - *The sum of all the forces acting on an object, also known as resultant force.*
+
+1. **Define the term 'net force'
+
+	The sum of all the forces acting on an object, also known as resultant force.
+
+2. **Describe what happens to a stationary object with zero net force acting on it**
+
+	The object will remain stationary.
+
+3. **Describe what happens to a moving object with zero net force acting it**
+
+	The object will keep on moving forever or until someone stops it.
+
+4. **Define the term 'inertia'
+
+	The tendency of an object to resist changes in its moiton while either in rest or in constant motion.
+
+5. **Describe an example of how inertia affects your motion inside a car, bus, tram or train.**
+
+	When a car is in constant movement, you will barely notice that its is moving, however if you stop suddenly it can fling you a bit.
+
+6. **Explain why people lurch backwards in a tram when it starts moving suddenly.**
+
+	When a stationary object is suddenly accelerated there is an unbalanced force present and it can lurch the person backwards momentarily.
+
+7. **Explain why you should wear a seatbelt in a moving car**
+
+	The reason for seatbelts is to hold a person back from being sent forward in the chance that an unexpected stop occurs. 
