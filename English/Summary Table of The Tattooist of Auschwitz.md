@@ -67,3 +67,5 @@
  |                    |                                                                          | named Leon. (Baretski befriends Lale by helping |                                                      |
  |                    |                                                                          | him to get close to the girl.)                  |                                                      |
  | Chapter 4          |                                                                          |                                                 |                                                      |
+ |                    |                                                                          | Baretski is insecue about how other men will    |                                                      |
+ |                    |                                                                          | think.                                          |                                                      |
