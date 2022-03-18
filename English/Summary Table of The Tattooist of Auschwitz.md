@@ -24,7 +24,7 @@
  |                    | His father is a carriage driver                                          |                                           | Work will make you free (Ironic Quote)               |
  |                    |                                                                          |                                           |                                                      |
  |                    | Lale will do anything to survive the camp                                |                                           | Do as you're told and everything will be alright     |
- | ------------------ | ----------------------------------------------------                     | ------------------------------------      | ---------------------------------------------------- |
+ | ------------------ | ------------------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------------- |
  | Chapter 2          |                                                                          | Pepan - French man                        | There was a hesitant but real laugh                  |
  |                    | During the morning an SS Soldier speaks                                  | The Tatooist                              | Even though they are at the darkest point of their   |
  |                    | to the prisoners but they rely on the                                    | Academic in Paris                         | lives, they were still able to laugh.                |
@@ -51,7 +51,7 @@
  |                    | working as the kapo's assistant because he will still be a Nazi puppet   |                                           | Lale has a debt that he cannot pay                   |
  |                    | but either way if he is working for Pepan or the soldiers, he will still |                                           |                                                      |
  |                    | be doing their dirty work.                                               |                                           |                                                      |
- |                    |                                                                          |                                           |                                                      |
- | Chapter 3          | His dream sequence represents an escape from the horrors of reality      | Leon                                      |                                                      |
+ | ------------------ | ------------------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------------- | 
+ | Chapter 3          | His dream sequence represents an escape from the horrors of reality      | Leon                                      | You've been placed under the auspices of the SS                                                    |
  |                    | and whats going to come                                                  |                                           |                                                      |
  |                    |                                                                          |                                           |                                                      |
