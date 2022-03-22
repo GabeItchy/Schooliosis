@@ -9,4 +9,8 @@
 
 5. What conclusions does Lale make about Baretski at the end of chapter 4?
 
-	Lale is still very unsure about Baretski as he is a Nazi Soldier with a gun, and Lale managed to "dodge a bullet". After learning about Baretski's 
+	Lale is still very unsure about Baretski as he is a Nazi Soldier with a gun, and Lale managed to "dodge a bullet". After learning about Baretski's view on women, Lale hopes that Baretski won't survive to meet another women. This is because Baretski believe's that there is no need for emotional connection to these women but instead only believes that they only want sexual activities or want him for his uniform.
+
+6. What are the smiliarities and differences between Lale and Baretski? 
+
+	Lale and Baretski are into women, they are quite young (in their early 20s)
