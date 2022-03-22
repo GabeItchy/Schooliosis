@@ -14,3 +14,5 @@
 6. What are the smiliarities and differences between Lale and Baretski? 
 
 	Lale and Baretski are into women, they are quite young (in their early 20s)
+
+	Lale is well educated, has a good understanding of women and know how to treat them, he can speak many languages and 
