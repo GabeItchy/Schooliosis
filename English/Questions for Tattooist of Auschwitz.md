@@ -5,7 +5,7 @@
 	Baretski offers Lale an oppurtunity to write a letter to the girl that Lale is interested in. What this shows about Baretski is that he's a man that honestly wants to befriend Lale.
 4. How has Lale's life and position changed with his new role?
 
-	Though Lale's job means that he will be defiling many innocent lives, this also gives him a chance to help him with the help of Pepan. However, Lale's job offers him more food, protection, freedom to walk around the camp without question.
+	Though Lale's job means that he will be defiling many innocent lives, this also gives him a chance to help them with the help of Pepan. However, Lale's job offers him more food, protection, freedom to walk around the camp without question.
 
 5. What conclusions does Lale make about Baretski at the end of chapter 4?
 
@@ -15,4 +15,4 @@
 
 	Lale and Baretski are into women, they are quite young (in their early 20s)
 
-	Lale is well educated, has a good understanding of women and know how to treat them, he can speak many languages and 
+	Lale is cultured, has a good understanding of women and know how to treat them, he can speak many languages and 
