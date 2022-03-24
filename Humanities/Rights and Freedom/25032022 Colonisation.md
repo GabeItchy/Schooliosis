@@ -12,3 +12,13 @@ Evidence has since surfaced that challenges the claims of no residence or farmin
 *Dispossession*
 
 The first arrival of British led to the frontier wars, forcible removal of the Indigenous peoples from their land and many massacres. Many of the First People were moved onto reserves.
+
+*The Frontier Wars*
+
+A series of conflicts adn events that began in 1788 and lasted until the 1930s. First Nations people were involved in conflicts and battles to defend their country and Europeans carried out massacres to expand the British colony.
+
+First Nations people adapted quickly, often employing guerilla warfare tactics - fast moving, small scale actions including ambushes, sabotage and raids.
+
+*Protectionism*
+
+Removing children from families (Stolen Genrations) "for their own good" in order to begin a process of trying to assimilate "half-caste" Indigenous children into British-Australian society.
