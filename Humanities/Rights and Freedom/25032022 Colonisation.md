@@ -22,3 +22,19 @@ First Nations people adapted quickly, often employing guerilla warfare tactics -
 *Protectionism*
 
 Removing children from families (Stolen Genrations) "for their own good" in order to begin a process of trying to assimilate "half-caste" Indigenous children into British-Australian society.
+
+*Situation of Frederation*
+
+A number of acts passed by the Commonwealth Parliament meant that Indigenous Australians couldn't:
+
+Vote in federal elections unless previously registered to vote in states.
+
+Travel restrictions were often enforced and excluded from military training
+
+Did not receive the basic wage and not eligible for aged and invalid pensions
+
+When the census was held, Indigenous Australian people were not classified.
+
+
+## Check your Learning
+
