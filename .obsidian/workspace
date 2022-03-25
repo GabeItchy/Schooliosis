@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Humanities/Rights and Freedom/25032022 Colonisation.md",
+            "file": "English/Questions for Tattooist of Auschwitz.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8a4705fe3d3d876",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/Rights and Freedom/25032022 Colonisation.md",
+                "file": "English/Questions for Tattooist of Auschwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,11 +115,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
+    "English/Questions for Tattooist of Auschwitz.md",
     "Humanities/Rights and Freedom/25032022 Colonisation.md",
     "English/English Draft.md",
     "Science/Distance and Displacement/22032022 Newton's Second Law.md",
@@ -129,7 +128,6 @@
     "Science/Distance and Displacement/1032022 Distance and Displacement.md",
     "Humanities/WW1-2/25022022 The Course of WWII in Europe and the Pacific.md",
     "Humanities/WW1-2/16022022 The Great Depression - Causes of WWII.md",
-    "Humanities/WW1-2/18022022 The Rise of Dictatorships.md",
-    "Humanities/Rights and Freedom/23032022 The Universal Declaration of Human Rights.md"
+    "Humanities/WW1-2/18022022 The Rise of Dictatorships.md"
   ]
 }
