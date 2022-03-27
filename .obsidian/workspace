@@ -7,8 +7,12 @@
         "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
+    "Untitled.md",
     "Boys Teams Sports/Untitled.md",
     "Boys Teams Sports/Respectful Relationships Lesson 1..md",
     "English/Questions for Tattooist of Auschwitz.md",
@@ -122,7 +128,6 @@
     "Science/Distance and Displacement/22032022 Newton's Second Law.md",
     "Science/Distance and Displacement/3032022 Velocity is Speed With Direction.md",
     "Science/Distance and Displacement/18032022 An object in motion remains in motion until a force acts on it.md",
-    "Science/Distance and Displacement/1032022 Distance and Displacement.md",
-    "Humanities/WW1-2/25022022 The Course of WWII in Europe and the Pacific.md"
+    "Science/Distance and Displacement/1032022 Distance and Displacement.md"
   ]
 }
