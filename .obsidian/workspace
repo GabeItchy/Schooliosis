@@ -7,12 +7,8 @@
         "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Boys Teams Sports/Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boys Teams Sports/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
