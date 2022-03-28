@@ -1,4 +1,4 @@
-k## An Object in motion remains in motion until a force acts on it
+## An Object in motion remains in motion until a force acts on it
 
 **Who was Isaac Newton**
 
