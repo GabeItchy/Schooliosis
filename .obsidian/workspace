@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Humanities/Rights and Freedom/25032022 Colonisation.md",
+            "file": "Humanities/Rights and Freedom/11.6 Universal Declaration of Human Rights.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8a4705fe3d3d876",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/Rights and Freedom/25032022 Colonisation.md",
+                "file": "Humanities/Rights and Freedom/11.6 Universal Declaration of Human Rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
+    "Humanities/Rights and Freedom/11.6 Universal Declaration of Human Rights.md",
     "Humanities/Rights and Freedom/25032022 Colonisation.md",
     "English/Questions for Tattooist of Auschwitz.md",
     "English/8022022 Holocaust Documentary.md",
@@ -127,7 +129,6 @@
     "Science/Distance and Displacement/18032022 An object in motion remains in motion until a force acts on it.md",
     "Science/Distance and Displacement/28032022 Newton's Third Law.md",
     "Science/Distance and Displacement/22032022 Newton's Second Law.md",
-    "Science/Distance and Displacement/3032022 Velocity is Speed With Direction.md",
-    "Boys Teams Sports/Untitled.md"
+    "Science/Distance and Displacement/3032022 Velocity is Speed With Direction.md"
   ]
 }
