@@ -69,3 +69,14 @@
  | Chapter 4          |                                                                          |                                                 |                                                      |
  |                    |                                                                          | Baretski is insecue about how other men will    |                                                      |
  |                    |                                                                          | think.                                          |                                                      |
+
+
+## Survival
+
+How does the holocaust change the idea of living. 
+How does it affect the character behaviour, thinking and their idea of life.
+
+## Lale Meets Gita
+
+Gives them a reason to survive. Also allows them to think positive thoughts and attitude and hope.
+
