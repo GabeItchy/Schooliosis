@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "48b9b68a1d2ab931",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Summary Table of The Tattooist of Auschwitz.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boys Teams Sports/Substance Use Disorder.md",
+                "file": "English/Summary Table of The Tattooist of Auschwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +123,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ec7b9aafc11beb23",
+  "active": "48b9b68a1d2ab931",
   "lastOpenFiles": [
+    "English/Summary Table of The Tattooist of Auschwitz.md",
+    "conflict-files-obsidian-git.md",
     "Boys Teams Sports/Substance Use Disorder.md",
     "Todo.md"
   ]

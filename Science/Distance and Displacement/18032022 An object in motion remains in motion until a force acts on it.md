@@ -2,7 +2,7 @@
 
 **Who was Isaac Newton**
 
-*Isaacs Newton was an English Scientist. He was one of th efirst people to obeserve and study the effects of gravity. Newton formulated the three laws of motions, which are still relevant and used today.*
+*Isaacs Newton was an English Scientist. He was one of the first people to obeserve and study the effects of gravity. Newton formulated the three laws of motions, which are still relevant and used today.*
 
 **Newton's first law**
 
