@@ -74,3 +74,7 @@
 
 	Person 1: Hey do you want to go on a road trip?
 	*Person 2 swings their bag at Person 1, screams bloody murder and calls the police for attemped kidnapping.*
+
+2. What does consent look, sound and feel like?
+
+	Consent looks like happy face
