@@ -41,4 +41,12 @@
 
 7. How can you help a friend?
 
-	
+	Believe
+		One of the greatest barriers to disclosure is the fear of not being believed.
+	Normalised Feelings
+		Reassure th person their feelings are understandable given what they have been through
+	Non - Judgment
+		Let them know that you do not think that they invited the abuse and that they were not responsible.
+	Safety
+		Assess - is the persons till being abused?
+		Support the person to be psychologically safe.
