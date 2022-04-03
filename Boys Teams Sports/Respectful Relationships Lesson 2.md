@@ -56,3 +56,21 @@
 	   <--------------------------------|-------------------------------->
 	Passives                                              Assertive                                            Aggressive
 
+1. Draw a passive, assertive and aggressive response to a scenario 
+
+	*Passive*
+
+	Person 1: Hey would you like some tea
+	Person 2: [Not in a mood to do it, but wants to make the person happy] Okay
+	*Person 1 makes tea and Person 2 drinks it
+
+	Assertive
+
+	Person 1: Do you want a nut cake?
+	Person 2: No, I am a allergic to nut and cake is disgusting.
+	Person 1: Dahm.
+
+	Aggressive
+
+	Person 1: Hey do you want to go on a road trip?
+	*Person 2 swings their bag at Person 1, screams bloody murder and calls the police for attemped kidnapping.*
