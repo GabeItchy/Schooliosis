@@ -77,4 +77,4 @@
 
 2. What does consent look, sound and feel like?
 
-	Consent looks like happy face
+	Consent looks like physical agreement such as a handshake, or nodding followed by a verbal yes. It cannot be forced. The person giving consent must feel safe and not under pressure.
