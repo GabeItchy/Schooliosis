@@ -50,3 +50,9 @@
 	Safety
 		Assess - is the persons till being abused?
 		Support the person to be psychologically safe.
+
+8. Draw the Assertive continuum
+
+	   <--------------------------------|-------------------------------->
+	Passives                                              Assertive                                            Aggressive
+
