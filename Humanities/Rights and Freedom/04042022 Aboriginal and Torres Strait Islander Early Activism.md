@@ -22,3 +22,9 @@
 This included a re-enactment of the First Fleet landing with 25 Aboriginal men forced to participate at risk of their families being refused rations.
 
 Groups of Indigenous Australians protested 'Australia Day' by gathering to march from the Sydney Town Hall for the 'Day of Mourning and Protest.' They were refused permission to meet at the Town Hall but instead marched to Australian Hall where they weere forced to enter through the back.
+
+A manifesto called *Aborigines Claim Citizen Rights* was distributed at the meeting. The opening of the manifesto stated:
+
+"This festival of 150 years of so-called progress in Australia commemorates also 150 years of misery and degradation iposed on the original native inhabitants by white invaders of this country."
+
+## Cummerangunja Wa
