@@ -27,4 +27,10 @@ A manifesto called *Aborigines Claim Citizen Rights* was distributed at the meet
 
 "This festival of 150 years of so-called progress in Australia commemorates also 150 years of misery and degradation iposed on the original native inhabitants by white invaders of this country."
 
-## Cummerangunja Wa
+## Cummerangunja Walk - Off
+
+1881 - Cummerangunja Station was set up on 700 hectares of land in the heart of Yorta Yorta Country in NSW
+
+It was managed by Aboriginal residents without much interference from government.
+
+1906 - Aboriginal Protection Board became mor einvolved and placed settlers in charge of the mission.
