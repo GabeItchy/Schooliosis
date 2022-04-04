@@ -27,4 +27,15 @@ Each trait is inherited independently from other factors. just because you inher
 
 ## James Watson and Francis Crick
 
-In 1953, James Wa
+In 1953, James Watson and Francis Crick worked as a team to find the structure of DNA (deoxyribonucleic acid). It was indentified as a double helix (two strands).
+
+They were both given a nobel prize for work on the structure of DNA.
+
+## Rosalind Franklin
+
+Wilkins showed Watson an X-ray image of Franklin's DNA she discovered. Rosalind Franklin had images of the structure of DNA, but her contribution to science was not recognised until after her death.
+
+## Charles Darwin
+
+Charles Darwin was a British biologist who played a major role in the 'Theory of evolution'.
+His studies of various plants led him to publish his own book where he detailed all of his theories in.
