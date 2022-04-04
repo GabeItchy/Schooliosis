@@ -34,3 +34,9 @@ A manifesto called *Aborigines Claim Citizen Rights* was distributed at the meet
 It was managed by Aboriginal residents without much interference from government.
 
 1906 - Aboriginal Protection Board became mor einvolved and placed settlers in charge of the mission.
+
+1938 - Arthur McGuiggan is appointed to manage the mission. He is notriously cruel and brutal in his treatment of Aboriginal peoples.
+
+He withheld rations as punishment, witheld medical treatment and beat and remove people who chalanged him.
+
+With the help of William Cooper, who used to be a resident of the mission, the residents petitioned the Aboriginal Protection Board to remove him without success.
