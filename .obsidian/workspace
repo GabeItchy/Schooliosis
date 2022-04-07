@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "English/Summary Table of The Tattooist of Auschwitz.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -92,6 +93,14 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3384e50dd1d444e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
