@@ -69,3 +69,22 @@
  | Chapter 4          |                                                                          |                                                 |                                                      |
  |                    |                                                                          | Baretski is insecue about how other men will    |                                                      |
  |                    |                                                                          | think.                                          |                                                      |
+
+
+## Survival
+
+How does the holocaust change the idea of living. 
+How does it affect the character behaviour, thinking and their idea of life.
+Extra rations of food -> means food -> power
+Creates black market -> Why? -> To Survive
+
+Jacob - Lale helped Jacob and as a result of this, when it came time for Lale to be torture Jacob tortured him as little as possible and said "If I have to kill you to save others, I will do it as painlessly as possible".
+
+Cilka survives by accepting to be a sex slave for a German Soldier. Because of this she get to live but also gets to save Lale from death.
+
+Lale gets to survive by taking on the job as the tatooist, which is working for the Germans thus betraying his own people. But he is also able to save people through his job, the contacts he makes.
+
+## Lale Meets Gita
+
+Gives them a reason to survive. Also allows them to think positive thoughts and attitude and hope.
+
