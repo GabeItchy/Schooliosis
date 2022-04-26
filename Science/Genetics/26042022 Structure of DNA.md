@@ -9,4 +9,18 @@
 
 - Each DNA strand is like a necklace of beads. The individual 'beads' are called *nucleotide*
 
-A nucleotide is the building block of DNA. It is composed of three parts
+A nucleotide is the building block of DNA. It is composed of three parts:
+
+- A nitrogen base (also called a base)
+- A sugar molecule (deoxyribose)
+- A phosphate molecule
+
+![[Pasted image 20220426141559.png]]
+
+In DNA there are four types of nitrogen base:
+(A) Adenine
+(T) Thymine
+(G) Guanine
+(C) Cytosine
+
+![[Pasted image 20220426142143.png]]
