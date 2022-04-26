@@ -48,3 +48,24 @@ The two strands do not run straight along each other, but rather they twist arou
 - DNA has two very important properties:
 - DNA can make copies of itself: the two strands unwind, separate and each strand can be copied to make a new molecule
 - DNA carries information: the order in which the bases are arranged codes for specific proteins.
+
+# 2.2 Check your Learning
+
+**4. Describe the part of the nucleotide that varies. Identify the part the remains constant.**
+
+The Bases of the nucleotide changes however the sugar and the phosphate remains constant.
+
+**5. Identify the nucleotide that forms a hydrogen bond with adenine**
+
+The base that is T is form a hydrogen bond with adenine
+
+**6. Identify the complementary DNA sequence to GTTAGCCAGT**
+
+CAATCGGTCA
+
+**7. David recorded the following answer as the complementary DNA sequence for question 6: TGACCGATTG
+
+**a Explain why David's answer is incorrect.**
+	David's answer is wrong because David put in the incorrect complementary DNA sequence
+**b Identify where has gone wrong.**
+	XXOXOOXOXX
