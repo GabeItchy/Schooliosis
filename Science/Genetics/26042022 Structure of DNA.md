@@ -24,3 +24,18 @@ In DNA there are four types of nitrogen base:
 (C) Cytosine
 
 ![[Pasted image 20220426142143.png]]
+
+**Double Helix**
+
+The four different types of nitrogen bases ALWAYS link in a specific way:
+
+Adenine with Thymine
+Cytosine with Guanine
+
+These pairings are called complementary bases.
+
+When nucleotides join together, they form a long chain called a nucleic acid. DNA is a nucleic acid.
+
+Nucleotides are joined together by their sugar and phosphate groups.
+
+These nitrogen bases are bounded together by hydrogen bonds (weak bonds), between the bases.
