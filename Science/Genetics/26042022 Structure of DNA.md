@@ -39,3 +39,12 @@ When nucleotides join together, they form a long chain called a nucleic acid. DN
 Nucleotides are joined together by their sugar and phosphate groups.
 
 These nitrogen bases are bounded together by hydrogen bonds (weak bonds), between the bases.
+
+## Structure of DNA
+
+
+The two strands do not run straight along each other, but rather they twist around each other forming what is called a double helix.
+
+- DNA has two very important properties:
+- DNA can make copies of itself: the two strands unwind, separate and each strand can be copied to make a new molecule
+- DNA carries information: the order in which the bases are arranged codes for specific proteins.
