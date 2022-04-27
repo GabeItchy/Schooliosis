@@ -7,8 +7,12 @@
         "id": "854546bebd53db0e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Humanities/Rights and Freedom/28042022 11.7 The US civil rights movement.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Humanities/Rights and Freedom/28042022 11.7 The US civil rights movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
   },
   "active": "854546bebd53db0e",
   "lastOpenFiles": [
+    "Humanities/Rights and Freedom/28042022 11.7 The US civil rights movement.md",
     "Humanities/Rights and Freedom/27042022 The Day of Mourning and Jack Pattern (11.3 and 11.4).md",
     "Science/Genetics/26042022 Structure of DNA.md",
     "Science/Genetics/05042022 Introduction To Genetics.md",
@@ -122,7 +128,6 @@
     "Humanities/Rights and Freedom/25032022 Colonisation.md",
     "Humanities/Rights and Freedom/31032022 Controlled by colour.md",
     "Boys Teams Sports/Respectful Relationships Lesson 2.md",
-    "Boys Teams Sports/Respectful Relationships Lesson 1..md",
-    "Boys Teams Sports/Substance Use Disorder.md"
+    "Boys Teams Sports/Respectful Relationships Lesson 1..md"
   ]
 }
