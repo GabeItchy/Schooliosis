@@ -6,3 +6,8 @@
 - Inclusive [Language connecting to the audience]
 - Repetition [Use certain phrases that link back to the original idea]
 - Research [Factual Information]
+
+- Addressing the Audience
+- Get the audience to think
+- Personal Anecdotes
+- Statistics
