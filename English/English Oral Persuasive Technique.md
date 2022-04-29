@@ -28,4 +28,6 @@ https://www.fairtrials.org/articles/publications/innocent-until-proven-guilty-re
 What Happens to wrongfully convicted people
 https://today.law.harvard.edu/feature/guilty-proven-innocent/
 
+https://www.northeastern.edu/rise/presentations/guilty-until-proven-innocent-the-effect-of-unseen-affective-information-on-moral-judgment/
+
 *
