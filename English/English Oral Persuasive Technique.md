@@ -11,3 +11,16 @@
 - Get the audience to think
 - Personal Anecdotes
 - Statistics
+
+# Why we should be innocent until proven guilty, instead of guilty until proven innocent
+
+*Sources
+
+https://www.ruleoflaw.org.au/principles/presumption-of-innocence/
+
+https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence
+
+https://www.attorneyberniebrown.com/blog/2018/05/the-importance-of-innocent-until-proven-guilty/
+
+https://www.fairtrials.org/articles/publications/innocent-until-proven-guilty-report/
+*
