@@ -12,19 +12,19 @@
 | Went to college and got a theological degree after 3        |                                                                                      |
 | years.                                                      | Had turned to a different view of the world about Liberations and Self Determination |
 |                                                             |                                                                                      |
-| Became the 20th Pastor                                      | Nation of Islam - Changes his last name to                                                                                     |
+| Became the 20th Pastor                                      | Nation of Islam - Changes his last name to X                                         |
 |                                                             |                                                                                      |
-| Married Coretta Scott and had 4 Kids                        |                                                                                      |
+| Married Coretta Scott and had 4 Kids                        | Married Betty                                                                        |
 |                                                             |                                                                                      |
-| National Face of the civil rights cause                     |                                                                                      |
+| National Face of the civil rights cause                     | Ogranised support of Hinton Johnson, a victim of police violence                     |
 |                                                             |                                                                                      |
-| Jailed 20 Times                                             |                                                                                      |
+| Jailed 20 Times                                             | Did not rule out violence                                                            |
 |                                                             |                                                                                      |
-| Inspired thousands of people because of his eloquance       |                                                                                      |
+| Inspired thousands of people because of his eloquance       | FBI Kept an eye on him                                                               |
 |                                                             |                                                                                      |
-| Travelled 6 million miles                                   |                                                                                      |
+| Travelled 6 million miles                                   | Received Death threats                                                               |
 |                                                             |                                                                                      |
-| Delivers 5 thousdand speeches                               |                                                                                      |
+| Delivers 5 thousdand speeches                               | 1965 - X was shot by Nation of Islam                                                                                     |
 |                                                             |                                                                                      |
 | Spoke to the President                                      |                                                                                      |
 |                                                             |                                                                                      |
@@ -33,3 +33,16 @@
 | Shot and killed in memphis [1968]                           |                                                                                      |
 |                                                             |                                                                                      |
 | MLKJ is celebrated every year on the third of every January |                                                                                      |
+
+
+# Similarities
+
+- Experience in Jail
+- Both Married
+- Had more than two kids
+- Both Fathers were baptist ministers
+- One went to college and the other dropped out
+- violent vs non violent protest
+- Martin was about non violent protest
+- Malcom was about protesting "at all means necessary"
+- 
