@@ -45,4 +45,4 @@
 - violent vs non violent protest
 - Martin was about non violent protest
 - Malcom was about protesting "at all means necessary"
-- 
+- Critisized each other
