@@ -11,6 +11,17 @@
 
 *Chromosomes can be made up of one individual strand or two strands shaped like an 'X'
 The two strands are made up of indentical DNA.*
+
 **Homologous** - A pair of matching chromosomes.
 **Karyotype** - A picture of all the homologous chromosomes in a cell.
-**
+**Chromatid** - Each strand of a chromosome
+
+# 2.3 Check Your Learning
+
+**1. Identify the number of chromosomes in each of your cells**
+	There are 46 Chromosomes in each of your cells
+**2. Define the term 'karyotyping'**
+	Taking photos of the homologous chromosomes in a cell
+**3. Describe how DNA is like a string of beads**
+	
+	
