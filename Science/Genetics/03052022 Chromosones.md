@@ -23,5 +23,15 @@ The two strands are made up of indentical DNA.*
 **2. Define the term 'karyotyping'**
 	Taking photos of the homologous chromosomes in a cell
 **3. Describe how DNA is like a string of beads**
-	
+	The proteins is the beads and the DNA would be the string
+**4. Identify the names of the nitrogen bases that are represented by the letter A,T,G and C.**
+	Adenine, Guanine, Cytosine and Thymine
+**5. Identify the nitrogen bases that are complementary to A,T,G and C**
+	A -> T
+	G -> C
+	T -> A
+	C -> G
+**6. Compare (the similarities and differences between) DNA, chromosomes and genes.**
+They are all within a nucleus cell. Genes are in the DNA and DNA are within the chromosome. 
+
 	
