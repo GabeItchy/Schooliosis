@@ -12,6 +12,6 @@
 - Personal Anecdotes
 - Statistics
 
-# Why Guilty until proven Innocent is wrong (In Cancel Culture)
+# Cancel Culture is Justice
 
 *Sources
