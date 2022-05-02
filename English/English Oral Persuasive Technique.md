@@ -12,7 +12,7 @@
 - Personal Anecdotes
 - Statistics
 
-# Why Guilty until proven Innocent is wrong
+# Why Guilty until proven Innocent is wrong (In Cancel Culture)
 
 *Sources
 
