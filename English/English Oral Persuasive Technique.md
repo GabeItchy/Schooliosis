@@ -15,3 +15,8 @@
 # Cancel Culture is Justice
 
 *Sources
+https://www.abc.net.au/news/2022-04-29/melissa-lucio-death-penalty-texas/101017632
+
+https://www.theage.com.au/culture/tv-and-radio/todd-sampson-s-neo-nazi-row-new-series-on-hate-and-social-media-slammed-20220422-p5affa.html
+
+https://www.ucf.edu/pegasus/is-cancel-culture-effective/
